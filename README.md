@@ -1,2 +1,2 @@
 # azure-resume
-My azure cloud CV floowing ACG Projects video
+My azure cloud CV following ACG Projects video
