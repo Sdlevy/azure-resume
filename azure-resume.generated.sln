@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{FEC80B4D-3610-4AB3-85E2-F26CABD8FCF0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{A567DCBB-67CE-4250-A543-F3C03D50F2CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "backend\api\api.csproj", "{18C3FCD3-C8FE-4757-A17E-8BC701BBE56C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "backend\api\api.csproj", "{A18EC858-BB3A-41DB-BB5C-D542597D69A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18C3FCD3-C8FE-4757-A17E-8BC701BBE56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18C3FCD3-C8FE-4757-A17E-8BC701BBE56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18C3FCD3-C8FE-4757-A17E-8BC701BBE56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18C3FCD3-C8FE-4757-A17E-8BC701BBE56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18EC858-BB3A-41DB-BB5C-D542597D69A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18EC858-BB3A-41DB-BB5C-D542597D69A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18EC858-BB3A-41DB-BB5C-D542597D69A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18EC858-BB3A-41DB-BB5C-D542597D69A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{18C3FCD3-C8FE-4757-A17E-8BC701BBE56C} = {FEC80B4D-3610-4AB3-85E2-F26CABD8FCF0}
+		{A18EC858-BB3A-41DB-BB5C-D542597D69A7} = {A567DCBB-67CE-4250-A543-F3C03D50F2CE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ED38209E-149B-46B7-835D-C2E6E2F6FC2E}
